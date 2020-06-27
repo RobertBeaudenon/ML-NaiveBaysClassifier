@@ -8,6 +8,9 @@ class (story, ask_hn, show_hn and poll).
 - Finally, I conduct 3 different experiements to play with the classifier in order to see how it will improve its performance.
 I generate two graphs as shown below to plot both performance of the classifiers against the number of words left in your vocabulary.
 
+<img width="911" alt="Screen Shot 2020-06-27 at 12 27 54 PM" src="https://user-images.githubusercontent.com/35696935/85927064-a8bd1280-b871-11ea-968e-16344595daef.png">
+
+<img width="512" alt="Screen Shot 2020-06-27 at 12 28 45 PM" src="https://user-images.githubusercontent.com/35696935/85927080-c5f1e100-b871-11ea-8625-62b3235357ec.png">
 
 ## Getting Started
 ### Prerequisites
