@@ -1,4 +1,4 @@
-# Machine Learning  & Natural Language Processing - Using Naïve Bays Classifier.
+# Machine Learning  & Natural Language Processing - Using Naïve Bayes Classifier.
 
 - In this program I use a dataset of Hacker News fetched form kaggle to build a probabilistic model from the training set. The code parse the
 files in the training set and builds a vocabulary with all the words it contains in Title which is Created
